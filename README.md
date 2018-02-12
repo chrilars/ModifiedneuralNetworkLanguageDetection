@@ -1,4 +1,4 @@
 # Compatible with processing 2 only DO NOT use processing 3!
 
 # neuralNetworkLanguageDetection
-The first neural network (Carykh) ever made to improve itself with gradient descent, made on Nov. 20, 2016
+Original program by carykh, see:https://github.com/carykh/neuralNetworkLanguageDetection 
